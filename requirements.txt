@@ -1,0 +1,13 @@
+Flask==3.0.2
+Flask-Cors==4.0.1
+faiss-cpu==1.8.0
+gunicorn==22.0.0
+huggingface-hub==0.20.3
+langchain==0.1.12
+langchain-community==0.0.38
+langchain-core==0.1.52
+langchain-text-splitters==0.0.1
+python-dotenv==1.0.1
+sentence-transformers
+transformers
+faiss-gpu
