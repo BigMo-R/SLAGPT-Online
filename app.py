@@ -72,8 +72,8 @@ def build_faiss_index(docs):
 try:
     # Loading multiple documents
     logger.info("Loading and preprocessing documents...")
-    doc1 = load_document("data2/data1.txt")
-    doc2 = load_document("data2/data2.txt")
+    doc1 = load_document("data/school_info.txt")
+    doc2 = load_document("data/faculty_details.txt")
 
     # Process documents
     docs1 = process_documents(doc1)
