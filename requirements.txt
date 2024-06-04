@@ -10,4 +10,4 @@ langchain-text-splitters==0.0.1
 python-dotenv==1.0.1
 sentence-transformers
 transformers
-faiss-gpu
+faiss-gpu==1.7.2
